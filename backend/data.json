@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "title": "Wix (www.wix.com)",
+        "desc": "Wix is a free website builder that can be totally managed from the front-end. The main characteristic of this platform is that it comes with drag-and-drop options, so you don’t have to handle anything in the back-end.",
+        "link": "https://www.wix.com",
+        "images": "https://images.com",
+        "priority": 3,
+        "timeToFinish": 120,
+        "status": "active"
+    },
+    {
+        "id": 2,
+        "title": "WordPress (www.wordpress.org)",
+        "desc": "WordPress.org is the king of free blogging sites. It is a free platform, but you need to build the site mostly by yourself afterward. You also have to host the software yourself.",
+        "link": "https://www.wordpress.org",
+        "images": "https://images.com",
+        "priority": 2,
+        "timeToFinish": 200,
+        "status": "inactive"
+    },
+    {
+        "id": 3,
+        "title": "LinkedIn (www.linkedin.com)",
+        "desc": "You probably didn’t see this one coming. LinkedIn isn’t most people’s first choice when considering which of the free blogging sites to choose. That being said, it really does deserve some attention!",
+        "link": "https://www.linkedin.com",
+        "images": "https://images.com",
+        "priority": 4,
+        "timeToFinish": 60,
+        "status": "complete"
+    }
+]
